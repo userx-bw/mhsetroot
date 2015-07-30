@@ -1,4 +1,3 @@
-hsetroot
+mhsetroot
 ========
-
-A clone of hsetroot as I can never seem to find the sources
+It needed more then what hsetroot did, so I made it to that. 
