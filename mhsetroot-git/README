@@ -1,0 +1,26 @@
+mhsetroot -- Yet another more better wallpaper application...
+
+Q: why another one?
+A: hsetroot was just too limited 4 me so I made it do 
+   what I wanted it to do that no other ones do either.
+
+Q: Why not the other one?
+A: Because this one can do a LOT more stuff then the other one did.
+   Operates just like hsetroot but resizes image using just mhsetroot. 
+   No more losing pixels by having to use gimp or something else.
+   produces more colors on screen if you want them, it will give them.
+
+Q: How does it do that?
+A: Using imlib2..
+
+Q: how do I install it?
+A: like most apps..
+       # ./configure
+       # make
+       # su
+       # make install
+
+Q: help?
+A: mhsetroot --help
+
+-- userxbw
